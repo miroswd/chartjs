@@ -2,12 +2,14 @@
 
 <p>
 Usando a biblioteca <a href="https://www.chartjs.org/docs/latest/">Chart.js</a> para a construção de gráficos.<br/>
-Esse repositório é apenas de estudo e de futuras consultas pessoais.
+Esse projeto consiste em apenas estudar a criação de gráficos e permitir futuras consultas pessoais.
 </p>
 
-<p>Exemplo de 2 tipos de gráficos, embora a biblioteca permite utilizar outros tipos de gráficos, como o de pizza, radar, etc.
+
+<h2>Visual simples</h2>
+<p>Abaixo, um print de exemplo, utilizando 2 tipos de gráficos, embora a biblioteca permite utilizar outros tipos de gráfico, como o de pizza, radar, etc.
 </p>
 
 <p>
-<img src="" width="200px">
+<img src="https://github.com/miroswd/chartjs/blob/master/assets/exemplo.png" />
 </p>
